@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Humility",
+  "base_artist": "Gorillaz",
+  "createdAt": "2026-02-09T06:32:30.039805Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Humility (DJ Koze Remix)",
+      "artist": "Gorillaz feat. George Benson",
+      "has_synced": false,
+      "path": "select/01_Humility_(DJ_Koze_Remix)_Gorillaz_feat._George_Benson.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Humility (feat. George Benson)",
+      "artist": "Gorillaz feat. George Benson",
+      "has_synced": true,
+      "path": "select/02_Humility_(feat._George_Benson)_Gorillaz_feat._George_Benson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Humility (feat. George Benson)",
+      "artist": "Gorillaz, George Benson",
+      "has_synced": true,
+      "path": "select/03_Humility_(feat._George_Benson)_Gorillaz,_George_Benson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Humility",
+      "artist": "Gorillaz feat. George Benson",
+      "has_synced": true,
+      "path": "select/04_Humility_Gorillaz_feat._George_Benson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Humility feat. George Benson",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/05_Humility_feat._George_Benson_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "My Humility, You Are",
+      "artist": "The Scene Aesthetic",
+      "has_synced": false,
+      "path": "select/06_My_Humility,_You_Are_The_Scene_Aesthetic.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Every Day's a Lesson in Humility",
+      "artist": "Suki Waterhouse feat. Belle and Sebastian",
+      "has_synced": true,
+      "path": "select/07_Every_Day's_a_Lesson_in_Humility_Suki_Waterhouse_feat._Belle_and_Sebastian.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Every Day’s a Lesson in Humility",
+      "artist": "Suki Waterhouse",
+      "has_synced": true,
+      "path": "select/08_Every_Day’s_a_Lesson_in_Humility_Suki_Waterhouse.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Every Day's A Lesson In Humility",
+      "artist": "Suki Waterhouse x Belle and Sebastian",
+      "has_synced": true,
+      "path": "select/09_Every_Day's_A_Lesson_In_Humility_Suki_Waterhouse_x_Belle_and_Sebastian.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Humility (ft. George Benson)",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/10_Humility_(ft._George_Benson)_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Humility On Parade",
+      "artist": "Harvey Danger",
+      "has_synced": true,
+      "path": "select/11_Humility_On_Parade_Harvey_Danger.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "In Humility, Our Savior",
+      "artist": "Hilary Weeks",
+      "has_synced": false,
+      "path": "select/12_In_Humility,_Our_Savior_Hilary_Weeks.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Humility",
+      "artist": "Groundation",
+      "has_synced": true,
+      "path": "select/13_Humility_Groundation.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Humility (feat. George Benson)",
+      "artist": "Gorillaz, ジョージ・ベンソン",
+      "has_synced": false,
+      "path": "select/pl_01_Humility_(feat._George_Benson)_Gorillaz,_ジョージ・ベンソン.txt"
+    }
+  ]
+}
